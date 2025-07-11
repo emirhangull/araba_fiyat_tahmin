@@ -51,3 +51,6 @@ Bu proje, belirli bir ikinci el model için fiyat tahmini yaparak hem makine ö�
 ---
 
 *Her türlü görüş ve katkıya açığım. Forklayıp geliştirebilir ya da issue açarak geri bildirimde bulunabilirsiniz!*
+
+<img width="707" height="699" alt="image" src="https://github.com/user-attachments/assets/f1965354-cdf9-445f-85a7-db54e6395c09" />
+
