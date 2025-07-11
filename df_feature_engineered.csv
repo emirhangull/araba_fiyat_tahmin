@@ -42,7 +42,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 152000,14.050582680143757,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,64.22975,9.0,False,False,False,False,False,True,False,False,False,False,True
 105000,14.328334184392938,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
 199500,13.704020181930911,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,74.38535,12.0,True,False,True,False,False,False,False,False,False,False,True
-117000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,6.0888,5.0,False,False,False,False,False,False,False,False,False,True,True
+117000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,6.0888,5.0,False,False,False,False,False,False,False,False,False,True,True
 247000,13.758940206475879,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,34.2248,12.0,True,False,True,False,False,False,False,False,False,False,True
 167900,14.278615445518852,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 237000,14.09692301740246,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.0,10.0,False,False,False,False,True,False,False,False,False,False,True
@@ -154,7 +154,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 113000,14.180153671552183,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,9.0,False,False,False,False,False,True,False,False,False,False,False
 181000,13.681979165339751,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,157.4249,13.0,True,True,False,False,False,False,False,False,False,False,True
 320000,14.133964289082808,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,64.03997,8.0,False,False,False,False,False,False,True,False,False,False,True
-60000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+60000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 92000,14.316285845876763,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,139.68668,6.0,False,False,False,False,False,False,False,False,True,False,True
 119000,14.360737608447597,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,148.96346,6.0,False,False,False,False,False,False,False,False,True,False,True
 270000,14.166167429577444,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.0,10.0,False,False,False,False,True,False,False,False,False,False,True
@@ -180,7 +180,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 190000,14.077874822431765,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,44.9409,10.0,False,False,False,False,True,False,False,False,False,False,True
 240000,13.968231644981937,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.0,8.0,False,False,False,False,False,False,True,False,False,False,True
 155000,14.204168547756057,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,51.86772,6.0,False,False,False,False,False,False,False,False,True,False,True
-99635,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+99635,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 184000,14.247292974389811,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,8.0,False,False,False,False,False,False,True,False,False,False,True
 191000,14.111904571018076,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,136.64228,10.0,False,False,False,False,True,False,False,False,False,False,True
 104000,14.26339638195639,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,13.22342,10.0,False,False,False,False,True,False,False,False,False,False,True
@@ -258,7 +258,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 272000,13.758940206475879,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,14.5792,11.0,True,False,False,True,False,False,False,False,False,False,True
 110000,14.354923638582177,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 105000,14.408837403242009,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,136.64228,7.0,False,False,False,False,False,False,False,True,False,False,True
-98000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+98000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 50000,14.557447902693651,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
 240000,14.108180171927094,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,20.316029999999998,9.0,False,False,False,False,False,True,False,False,False,False,True
 410000,13.693342923990066,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,100.40815,10.0,False,False,False,False,True,False,False,False,False,False,True
@@ -308,7 +308,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 248000,13.864300722133706,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,108.3904,11.0,True,False,False,True,False,False,False,False,False,False,True
 156000,13.94214320889764,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,131.63152,11.0,True,False,False,True,False,False,False,False,False,False,True
 204000,13.997832114758229,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,0.0,10.0,False,False,False,False,True,False,False,False,False,False,False
-40000,14.569282360340654,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,7.0,False,False,False,False,False,False,False,True,False,False,True
+40000,14.572805558347971,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,7.0,False,False,False,False,False,False,False,True,False,False,True
 320000,13.955272500339433,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.0,9.0,False,False,False,False,False,True,False,False,False,False,True
 210000,13.815510557964274,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,124.7218,11.0,True,False,False,True,False,False,False,False,False,False,True
 194000,13.864300722133706,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,140.82804,8.0,False,False,False,False,False,False,True,False,False,False,True
@@ -369,7 +369,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 318000,13.444446876573442,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,136.64228,13.0,True,True,False,False,False,False,False,False,False,False,True
 270000,13.658856747918897,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,168.77384,11.0,True,False,False,True,False,False,False,False,False,False,True
 290000,13.67509840424753,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,147.29976000000002,11.0,True,False,False,True,False,False,False,False,False,False,True
-6001,14.569282360340654,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+6001,14.572805558347971,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 243000,14.074021253115776,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,38.12509,10.0,False,False,False,False,True,False,False,False,False,False,True
 105000,14.155547860749984,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,11.62542,10.0,False,False,False,False,True,False,False,False,False,False,True
 242550,13.800396920154226,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,74.91227,12.0,True,False,True,False,False,False,False,False,False,False,True
@@ -410,7 +410,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 195000,14.006130917572923,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,21.848219999999998,8.0,False,False,False,False,False,False,True,False,False,False,True
 155000,13.872835624583544,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.0,12.0,True,False,True,False,False,False,False,False,False,False,True
 180000,14.104441849816487,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,32.54921,8.0,False,False,False,False,False,False,True,False,False,False,True
-118069,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,6.0888,6.0,False,False,False,False,False,False,False,False,True,False,True
+118069,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,6.0888,6.0,False,False,False,False,False,False,False,False,True,False,True
 129000,14.400515579904516,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,0.0,9.0,False,False,False,False,False,True,False,False,False,False,True
 181000,14.22097566607244,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,42.56746,8.0,False,False,False,False,False,False,True,False,False,False,True
 200000,13.77468856344402,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,119.16304,13.0,True,True,False,False,False,False,False,False,False,False,False
@@ -460,12 +460,12 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 199000,14.158922941669429,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,25.0391,10.0,False,False,False,False,True,False,False,False,False,False,True
 177000,14.217636764806924,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.0,10.0,False,False,False,False,True,False,False,False,False,False,True
 136000,14.18638422130282,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,17.10935,8.0,False,False,False,False,False,False,True,False,False,False,True
-106000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+106000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 97000,14.386490104550012,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 147000,14.328334184392938,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 71000,14.269765830241871,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,0.0,8.0,False,False,False,False,False,False,True,False,False,False,True
 273000,13.892471599100402,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,31.8984,8.0,False,False,False,False,False,False,True,False,False,False,True
-69750,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+69750,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 209000,13.933293593620657,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,80.38271,9.0,False,False,False,False,False,True,False,False,False,False,True
 170000,14.126664986601197,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,33.02077,6.0,False,False,False,False,False,False,False,False,True,False,True
 199000,14.108180171927094,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,31.4688,9.0,False,False,False,False,False,True,False,False,False,False,True
@@ -488,7 +488,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 137700,14.18638422130282,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,42.159549999999996,6.0,False,False,False,False,False,False,False,False,True,False,True
 150000,14.111904571018076,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,77.47615,7.0,False,False,False,False,False,False,False,True,False,False,True
 157000,13.835313185260453,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,131.96535,12.0,True,False,True,False,False,False,False,False,False,False,False
-95000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+95000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 214000,14.20077295875492,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 295000,13.901688254205327,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,9.0,False,False,False,False,False,True,False,False,False,False,True
 198000,14.22097566607244,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,136.64228,9.0,False,False,False,False,False,True,False,False,False,False,True
@@ -548,7 +548,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 193000,13.737549016494562,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,223.65274000000002,10.0,False,False,False,False,True,False,False,False,False,False,False
 232500,14.108180171927094,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,10.0,False,False,False,False,True,False,False,False,False,False,True
 186000,14.01436141670944,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,20.46765,9.0,False,False,False,False,False,True,False,False,False,False,True
-92000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,136.64228,5.0,False,False,False,False,False,False,False,False,False,True,True
+92000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,136.64228,5.0,False,False,False,False,False,False,False,False,False,True,True
 225000,14.01436141670944,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,148.38685999999998,10.0,False,False,False,False,True,False,False,False,False,False,True
 290000,13.981024996441848,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,136.64228,10.0,False,False,False,False,True,False,False,False,False,False,True
 208000,13.800396920154226,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,68.81445000000001,13.0,True,True,False,False,False,False,False,False,False,False,True
@@ -611,7 +611,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 178000,13.997832114758229,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,True,179.35693999999998,8.0,False,False,False,False,False,False,True,False,False,False,True
 106000,14.256986103595471,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,0.0,7.0,False,False,False,False,False,False,False,True,False,False,True
 280000,13.800396920154226,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,37.90472,10.0,False,False,False,False,True,False,False,False,False,False,True
-90000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,15.222,5.0,False,False,False,False,False,False,False,False,False,True,True
+90000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,15.222,5.0,False,False,False,False,False,False,False,False,False,True,True
 277000,14.058456736574664,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.0,7.0,False,False,False,False,False,False,False,True,False,False,True
 250000,13.937728190688523,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,184.08374,11.0,True,False,False,True,False,False,False,False,False,False,True
 153000,14.227620208791107,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
@@ -658,7 +658,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 157000,14.187074114396758,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,59.62267,9.0,False,False,False,False,False,True,False,False,False,False,True
 143000,14.338758701728821,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,10.01564,6.0,False,False,False,False,False,False,False,False,True,False,True
 177000,14.054527458434775,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,12.05724,8.0,False,False,False,False,False,False,True,False,False,False,True
-49500,14.569282360340654,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,0.0,8.0,False,False,False,False,False,False,True,False,False,False,True
+49500,14.572805558347971,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,0.0,8.0,False,False,False,False,False,False,True,False,False,False,True
 159000,14.240777639773633,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,0.0,10.0,False,False,False,False,True,False,False,False,False,False,True
 181000,14.104441849816487,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,11.4713,7.0,False,False,False,False,False,False,False,True,False,False,True
 185000,14.020897387689224,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,35.8954,12.0,True,False,True,False,False,False,False,False,False,False,True
@@ -834,10 +834,10 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 173000,14.077874822431765,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,130.89849999999998,10.0,False,False,False,False,True,False,False,False,False,False,True
 228000,13.554145793829866,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,202.45865,11.0,True,False,False,True,False,False,False,False,False,False,True
 180000,14.237504968023648,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
-89000,14.569282360340654,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+89000,14.572805558347971,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 240000,14.059123181117824,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,18.469160000000002,9.0,False,False,False,False,False,True,False,False,False,False,True
 197000,14.301018373745976,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,0.0,10.0,False,False,False,False,True,False,False,False,False,False,True
-6500,14.569282360340654,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+6500,14.572805558347971,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 193000,13.790192749979985,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,47.024840000000005,12.0,True,False,True,False,False,False,False,False,False,False,True
 165000,14.352003928478842,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,59.2431,5.0,False,False,False,False,False,False,False,False,False,True,True
 155000,14.183619879528669,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,51.86772,6.0,False,False,False,False,False,False,False,False,True,False,True
@@ -965,7 +965,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 240000,14.093142294562554,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,29.58145,10.0,False,False,False,False,True,False,False,False,False,False,True
 290000,13.527828485512494,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,148.88228,13.0,True,True,False,False,False,False,False,False,False,False,True
 246000,13.681979165339751,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,168.41243999999998,12.0,True,False,True,False,False,False,False,False,False,False,True
-68500,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+68500,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 130000,14.250534468313983,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
 320000,13.500799813124575,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,True,202.32393,12.0,True,False,True,False,False,False,False,False,False,False,True
 150000,13.779883380321124,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,0.0,11.0,True,False,False,True,False,False,False,False,False,False,False
@@ -1017,9 +1017,9 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 190000,13.883169206438088,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.0,13.0,True,True,False,False,False,False,False,False,False,False,True
 214000,13.592367006650065,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,162.14287000000002,12.0,True,False,True,False,False,False,False,False,False,False,True
 204000,13.758940206475879,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,161.69761000000003,12.0,True,False,True,False,False,False,False,False,False,False,True
-128000,14.569282360340654,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,20.4,5.0,False,False,False,False,False,False,False,False,False,True,True
+128000,14.572805558347971,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,20.4,5.0,False,False,False,False,False,False,False,False,False,True,True
 231000,13.993656743347747,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,119.27308,9.0,False,False,False,False,False,True,False,False,False,False,True
-18000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+18000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 168000,13.892471599100402,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,12.0,True,False,True,False,False,False,False,False,False,False,True
 205000,13.540613079871912,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,210.22842000000003,12.0,True,False,True,False,False,False,False,False,False,False,False
 163000,14.250534468313983,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,136.64228,7.0,False,False,False,False,False,False,False,True,False,False,True
@@ -1048,19 +1048,19 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 163500,13.864300722133706,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,0.0,11.0,True,False,False,True,False,False,False,False,False,False,False
 189000,14.19394699368452,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,0.0,10.0,False,False,False,False,True,False,False,False,False,False,True
 319000,13.45166712454693,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,88.86659,12.0,True,False,True,False,False,False,False,False,False,False,True
-41800,14.569282360340654,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,0.0,8.0,False,False,False,False,False,False,True,False,False,False,True
+41800,14.572805558347971,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,0.0,8.0,False,False,False,False,False,False,True,False,False,False,True
 225000,13.687677186454389,False,True,False,False,False,False,False,False,True,False,False,True,False,False,False,False,True,15.9492,12.0,True,False,True,False,False,False,False,False,False,False,True
 250000,13.937728190688523,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,0.0,9.0,False,False,False,False,False,True,False,False,False,False,True
 178000,14.038654109278484,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,136.64228,10.0,False,False,False,False,True,False,False,False,False,False,True
 395000,13.303016877097587,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,49.81014,12.0,True,False,True,False,False,False,False,False,False,False,True
 119500,14.403297222866392,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,10.856300000000001,7.0,False,False,False,False,False,False,False,True,False,False,True
-9000,14.569282360340654,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,7.0,False,False,False,False,False,False,False,True,False,False,True
+9000,14.572805558347971,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,7.0,False,False,False,False,False,False,False,True,False,False,True
 95000,14.174582626502728,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,51.2266,7.0,False,False,False,False,False,False,False,True,False,False,True
 89000,14.058456736574664,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,141.08313,12.0,True,False,True,False,False,False,False,False,False,False,True
 258000,13.963930563082547,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,171.09167000000002,9.0,False,False,False,False,False,True,False,False,False,False,True
-90000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
+90000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
 15995,14.380767547218301,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
-78000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
+78000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
 262000,13.721199878493033,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,42.14845,11.0,True,False,False,True,False,False,False,False,False,False,False
 185000,13.527828485512494,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,182.63404000000006,11.0,True,False,False,True,False,False,False,False,False,False,True
 250000,13.9108207377686,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,0.0,13.0,True,True,False,False,False,False,False,False,False,False,True
@@ -1083,7 +1083,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 200000,14.001990124906893,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,10.0,False,False,False,False,True,False,False,False,False,False,False
 169000,13.9108207377686,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,139.68668,11.0,True,False,False,True,False,False,False,False,False,False,True
 250000,14.151982794585487,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,0.0,9.0,False,False,False,False,False,True,False,False,False,False,True
-27000,14.569282360340654,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
+27000,14.572805558347971,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
 224000,13.687677186454389,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,136.64228,12.0,True,False,True,False,False,False,False,False,False,False,True
 194000,13.81049801614073,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,138.69581,12.0,True,False,True,False,False,False,False,False,False,False,False
 211000,14.15910026235435,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,28.67825,8.0,False,False,False,False,False,False,True,False,False,False,False
@@ -1098,7 +1098,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 241000,13.795307850646754,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,23.368500000000004,12.0,True,False,True,False,False,False,False,False,False,False,True
 184000,14.224303456165114,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.0,9.0,False,False,False,False,False,True,False,False,False,False,True
 181000,13.955272500339433,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,True,83.81850000000001,8.0,False,False,False,False,False,False,True,False,False,False,True
-72155,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+72155,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 143000,13.892471599100402,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,12.0,True,False,True,False,False,False,False,False,False,False,False
 245000,14.038654109278484,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,55.5499,10.0,False,False,False,False,True,False,False,False,False,False,True
 253000,13.924364962876357,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,126.02229999999999,9.0,False,False,False,False,False,True,False,False,False,False,True
@@ -1107,7 +1107,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 300000,13.567049198665774,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,146.65658,13.0,True,True,False,False,False,False,False,False,False,False,False
 158000,13.864300722133706,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,136.64228,11.0,True,False,False,True,False,False,False,False,False,False,True
 224000,13.981024996441848,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,10.0,False,False,False,False,True,False,False,False,False,False,True
-21000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+21000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 220000,13.864300722133706,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,191.5834,9.0,False,False,False,False,False,True,False,False,False,False,True
 211000,13.664687668229691,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,195.31905,9.0,False,False,False,False,False,True,False,False,False,False,True
 148000,14.297936707208567,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
@@ -1164,7 +1164,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 184000,13.769466619462868,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,0.0,13.0,True,True,False,False,False,False,False,False,False,False,False
 222000,14.077874822431765,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,136.64228,10.0,False,False,False,False,True,False,False,False,False,False,True
 130000,13.9108207377686,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,124.06563,11.0,True,False,False,True,False,False,False,False,False,False,True
-6500,14.569282360340654,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+6500,14.572805558347971,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 170000,14.089347223594002,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,134.67592,8.0,False,False,False,False,False,False,True,False,False,False,True
 190000,13.953531855861648,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,89.29653,10.0,False,False,False,False,True,False,False,False,False,False,False
 170000,14.155547860749984,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,0.0,11.0,True,False,False,True,False,False,False,False,False,False,True
@@ -1288,7 +1288,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 197000,13.815510557964274,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,12.0,True,False,True,False,False,False,False,False,False,False,False
 372000,13.681979165339751,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,55.772670000000005,13.0,True,True,False,False,False,False,False,False,False,False,True
 226000,13.9108207377686,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,10.0,False,False,False,False,True,False,False,False,False,False,False
-89000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+89000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 240000,13.997832114758229,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,0.0,9.0,False,False,False,False,False,True,False,False,False,False,True
 212000,13.906264921232738,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,29.06355,9.0,False,False,False,False,False,True,False,False,False,False,True
 320500,13.955272500339433,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,17.10935,10.0,False,False,False,False,True,False,False,False,False,False,True
@@ -1352,7 +1352,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 142000,14.22090899718345,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,89.64740000000002,5.0,False,False,False,False,False,False,False,False,False,True,True
 122400,14.282384294201082,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,8.0,False,False,False,False,False,False,True,False,False,False,True
 278000,14.100689500197937,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,128.43873,11.0,True,False,False,True,False,False,False,False,False,False,True
-39000,14.569282360340654,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+39000,14.572805558347971,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 134000,14.038654109278484,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,0.0,8.0,False,False,False,False,False,False,True,False,False,False,False
 17000,14.54739756684015,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 187000,13.835313185260453,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,40.3075,11.0,True,False,False,True,False,False,False,False,False,False,True
@@ -1600,7 +1600,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 215000,14.04662227892766,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5.83168,11.0,True,False,False,True,False,False,False,False,False,False,True
 79000,14.253765488895429,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,155.78132,7.0,False,False,False,False,False,False,False,True,False,False,False
 89450,14.250534468313983,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,0.0,7.0,False,False,False,False,False,False,False,True,False,False,True
-56000,14.569282360340654,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,136.64228,9.0,False,False,False,False,False,True,False,False,False,False,True
+56000,14.571632537685607,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,136.64228,9.0,False,False,False,False,False,True,False,False,False,False,True
 139000,14.128860377164633,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,34.16236,7.0,False,False,False,False,False,False,False,True,False,False,True
 317000,13.41577898170387,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,53.43149,13.0,True,True,False,False,False,False,False,False,False,False,False
 143000,14.204168547756057,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,139.54998999999998,8.0,False,False,False,False,False,False,True,False,False,False,False
@@ -1715,7 +1715,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 171000,14.089347223594002,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,129.22171,8.0,False,False,False,False,False,False,True,False,False,False,True
 155000,14.48333993053993,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,0.0,8.0,False,False,False,False,False,False,True,False,False,False,True
 156500,14.304090572782945,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
-82000,14.569282360340654,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
+82000,14.572805558347971,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
 129750,14.077874822431765,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,145.69502,10.0,False,False,False,False,True,False,False,False,False,False,True
 122850,14.227620208791107,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,139.83211999999997,7.0,False,False,False,False,False,False,False,True,False,False,True
 129500,14.0623706358958,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,136.64228,10.0,False,False,False,False,True,False,False,False,False,False,True
@@ -1774,10 +1774,10 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 142000,14.074021253115776,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,136.64228,10.0,False,False,False,False,True,False,False,False,False,False,True
 185500,14.06158908056098,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,0.0,8.0,False,False,False,False,False,False,True,False,False,False,True
 76000,14.357834848789636,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,7.0,False,False,False,False,False,False,False,True,False,False,True
-83500,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+83500,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 201250,14.269765830241871,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,140.06414999999998,9.0,False,False,False,False,False,True,False,False,False,False,False
 350000,13.997832114758229,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,136.64228,9.0,False,False,False,False,False,True,False,False,False,False,True
-48000,14.569282360340654,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,136.64228,6.0,False,False,False,False,False,False,False,False,True,False,True
+48000,14.572805558347971,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,136.64228,6.0,False,False,False,False,False,False,False,False,True,False,True
 270000,14.093142294562554,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,146.6393,8.0,False,False,False,False,False,False,True,False,False,False,True
 147000,14.058456736574664,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,128.39018000000002,8.0,False,False,False,False,False,False,True,False,False,False,True
 181000,13.687677186454389,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,45.7876,11.0,True,False,False,True,False,False,False,False,False,False,False
@@ -1793,7 +1793,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 210000,13.962204937115077,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,126.62664000000001,10.0,False,False,False,False,True,False,False,False,False,False,True
 110000,14.186901685738688,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,0.0,8.0,False,False,False,False,False,False,True,False,False,False,True
 320000,13.500799813124575,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,True,202.32393,12.0,True,False,True,False,False,False,False,False,False,False,True
-180000,14.569282360340654,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+180000,14.572805558347971,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 145000,14.297936707208567,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,130.8106,5.0,False,False,False,False,False,False,False,False,False,True,True
 72900,14.496078956317358,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,7.0,False,False,False,False,False,False,False,True,False,False,True
 84000,14.301018373745976,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,120.88286,6.0,False,False,False,False,False,False,False,False,True,False,True
@@ -1851,7 +1851,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 109000,14.282384294201082,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,7.0,False,False,False,False,False,False,False,True,False,False,True
 258000,14.042646130548022,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0.0,9.0,False,False,False,False,False,True,False,False,False,False,True
 157000,14.180153671552183,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,174.04772,8.0,False,False,False,False,False,False,True,False,False,False,True
-27000,14.569282360340654,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+27000,14.572805558347971,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
 59000,14.334304351379442,True,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,True,135.90632,5.0,False,False,False,False,False,False,False,False,False,True,True
 220000,14.115615150414612,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,0.0,9.0,False,False,False,False,False,True,False,False,False,False,True
 240000,14.018451401960965,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,54.40983,8.0,False,False,False,False,False,False,True,False,False,False,True
@@ -1890,7 +1890,7 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 230000,13.652991628466498,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,12.5269,12.0,True,False,True,False,False,False,False,False,False,False,True
 258000,13.764217263576723,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,153.67496,14.0,True,False,False,False,False,False,False,False,False,False,False
 98000,14.377979414882104,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
-20000,14.569282360340654,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,True,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
+20000,14.571632537685607,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,True,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
 188000,14.04662227892766,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,50.798359999999995,9.0,False,False,False,False,False,True,False,False,False,False,True
 138000,14.363631966473962,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,0.0,6.0,False,False,False,False,False,False,False,False,True,False,True
 191000,14.133964289082808,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,136.64228,7.0,False,False,False,False,False,False,False,True,False,False,True
@@ -1912,4 +1912,8 @@ km,log_fiyat,model_1.6 TDi BlueMotion Business,model_1.6 TDi BlueMotion Comfortl
 93836,14.073879158078668,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,125.70171,11.0,True,False,False,True,False,False,False,False,False,False,True
 49192,13.81604941275595,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,128.91123000000002,7.0,False,False,False,False,False,False,False,True,False,False,True
 100538,14.009637983761285,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,126.05141,10.0,False,False,False,False,True,False,False,False,False,False,True
-53780,14.152338445619874,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,135.29934,6.0,False,False,False,False,False,False,False,False,True,False,True
+65000,12.977337605354071,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,97.33646,8.0,False,False,False,False,False,False,True,False,False,False,True
+165000,12.977337605354071,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,25.024400000000004,12.0,True,False,True,False,False,False,False,False,False,False,True
+45000,12.977337605354071,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,83.1662,9.0,False,False,False,False,False,True,False,False,False,False,True
+30000,12.977337605354071,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,0.0,5.0,False,False,False,False,False,False,False,False,False,True,True
+55000,12.977337605354071,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,62.999,5.0,False,False,False,False,False,False,False,False,False,True,True
