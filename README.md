@@ -43,7 +43,7 @@ Bu proje, **arabam.com** sitesinden toplanan verilere dayanarak, Volkswagen Pass
 * Selenium
 * Pandas, NumPy
 * XGBoost
-
+* Scikit-Learn 
 ## Sonuç
 
 Bu proje, belirli bir ikinci el model için fiyat tahmini yaparak hem makine öğrenmesi yöntemlerini göstermekte hem de gerçek dünya verisiyle çalışmanın uygulamasını sunmaktadır. Özelleştirilmiş özellik mühendisliği sayesinde tahmin başarımı oldukça yüksektir.
