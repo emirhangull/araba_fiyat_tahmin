@@ -1,0 +1,141 @@
+2025-07-16 11:57:09,848 - INFO - Uyku modu engellendi
+2025-07-16 11:57:09,856 - INFO - Araç İlanı Scraper Başlatılıyor...
+2025-07-16 11:57:09,868 - INFO - Mevcut 4 kayıt yüklendi
+2025-07-16 11:57:09,898 - INFO - Toplam 2105 ilan, 2101 tanesi işlenecek
+2025-07-16 11:57:12,135 - INFO - WebDriver başlatıldı - Timeout: 5s
+2025-07-16 11:57:12,137 - INFO - [5/2105] İşleniyor: https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-comfortline/2019-model-yeni-logo-hatasiz-boyasiz-tramesiz/28854590
+2025-07-16 11:57:17,175 - WARNING - Sayfa yükleme timeout: https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-comfortline/2019-model-yeni-logo-hatasiz-boyasiz-tramesiz/28854590
+2025-07-16 11:57:17,358 - WARNING - İlan çekme hatası (deneme 1/3): Sayfa yüklenemedi
+2025-07-16 11:57:25,212 - INFO - WebDriver başlatıldı - Timeout: 5s
+2025-07-16 11:57:30,702 - WARNING - Sayfa yükleme timeout: https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-comfortline/2019-model-yeni-logo-hatasiz-boyasiz-tramesiz/28854590
+2025-07-16 11:57:31,032 - WARNING - İlan çekme hatası (deneme 2/3): Sayfa yüklenemedi
+2025-07-16 11:57:37,483 - INFO - WebDriver başlatıldı - Timeout: 5s
+2025-07-16 11:57:42,506 - WARNING - Sayfa yükleme timeout: https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-comfortline/2019-model-yeni-logo-hatasiz-boyasiz-tramesiz/28854590
+2025-07-16 11:57:42,633 - WARNING - İlan çekme hatası (deneme 3/3): Sayfa yüklenemedi
+2025-07-16 11:57:42,639 - ERROR - İlan çekilemedi (tüm denemeler tükendi): https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-comfortline/2019-model-yeni-logo-hatasiz-boyasiz-tramesiz/28854590
+2025-07-16 11:57:42,640 - WARNING - İlan işlenemedi: https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-comfortline/2019-model-yeni-logo-hatasiz-boyasiz-tramesiz/28854590
+2025-07-16 11:57:44,335 - INFO - [6/2105] İşleniyor: https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-comfortline/galeriden-volkswagen-passat-1-6-tdi-bluemotion-comfortline-2015-model-gaziantep/30788594
+2025-07-16 11:57:46,990 - ERROR - Navigasyon hatası: Message: unknown error: cannot determine loading status
+from target frame detached
+  (Session info: chrome=138.0.7204.96)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff70dfb6f65+76917]
+	GetHandleVerifier [0x0x7ff70dfb6fc0+77008]
+	(No symbol) [0x0x7ff70dd69c1c]
+	(No symbol) [0x0x7ff70dd5725b]
+	(No symbol) [0x0x7ff70dd54e8b]
+	(No symbol) [0x0x7ff70dd558ef]
+	(No symbol) [0x0x7ff70dd64bb5]
+	(No symbol) [0x0x7ff70dd7a621]
+	(No symbol) [0x0x7ff70dd8178a]
+	(No symbol) [0x0x7ff70dd5608d]
+	(No symbol) [0x0x7ff70dd79e11]
+	(No symbol) [0x0x7ff70de109b1]
+	(No symbol) [0x0x7ff70dde8243]
+	(No symbol) [0x0x7ff70ddb1431]
+	(No symbol) [0x0x7ff70ddb21c3]
+	GetHandleVerifier [0x0x7ff70e28d29d+3051437]
+	GetHandleVerifier [0x0x7ff70e2878f3+3028483]
+	GetHandleVerifier [0x0x7ff70e2a588d+3151261]
+	GetHandleVerifier [0x0x7ff70dfd182e+185662]
+	GetHandleVerifier [0x0x7ff70dfd96ef+218111]
+	GetHandleVerifier [0x0x7ff70dfbfae4+112628]
+	GetHandleVerifier [0x0x7ff70dfbfc99+113065]
+	GetHandleVerifier [0x0x7ff70dfa6c68+10616]
+	BaseThreadInitThunk [0x0x7ffd0a33e8d7+23]
+	RtlUserThreadStart [0x0x7ffd0b65c34c+44]
+
+2025-07-16 11:57:46,993 - WARNING - İlan çekme hatası (deneme 1/3): Sayfa yüklenemedi
+2025-07-16 11:57:48,996 - INFO - Kullanıcı tarafından durduruldu (Ctrl+C)
+2025-07-16 11:57:48,998 - INFO - Program sonlandırılıyor...
+2025-07-16 11:57:49,003 - INFO - 
+=== İSTATİSTİKLER ===
+Toplam İşlenen: 1
+Başarılı: 0
+Başarısız: 1
+Başarı Oranı: 0.0%
+Geçen Süre: 0.7 dakika
+Ortalama Süre/İlan: 39.1 saniye
+
+2025-07-16 11:57:52,221 - INFO - Temizlik tamamlandı
+2025-07-16 11:57:52,221 - INFO - Program sonlandırılıyor...
+2025-07-16 11:57:52,223 - INFO - 
+=== İSTATİSTİKLER ===
+Toplam İşlenen: 1
+Başarılı: 0
+Başarısız: 1
+Başarı Oranı: 0.0%
+Geçen Süre: 0.7 dakika
+Ortalama Süre/İlan: 42.4 saniye
+
+2025-07-16 11:57:56,270 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022A74D64A70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c13c645c3958f71f5010722d5ca28d23
+2025-07-16 11:58:00,319 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022A74D65700>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c13c645c3958f71f5010722d5ca28d23
+2025-07-16 14:28:23,698 - INFO - Uyku modu engellendi
+2025-07-16 14:28:23,716 - INFO - Araç İlanı Scraper Başlatılıyor...
+2025-07-16 14:28:23,763 - INFO - Mevcut 246 kayıt yüklendi
+2025-07-16 14:28:23,790 - INFO - Toplam 2105 ilan, 1859 tanesi işlenecek
+2025-07-16 14:28:26,127 - INFO - WebDriver başlatıldı - Timeout: 5s
+2025-07-16 14:28:26,128 - INFO - [247/2105] İşleniyor: https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-business/crk-otomotiv-den-yeni-logo-2020-passat/30611327
+2025-07-16 14:28:37,440 - WARNING - Element bulunamadı: tab-description
+2025-07-16 14:28:37,442 - WARNING - Temel elementler bulunamadı: https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-business/crk-otomotiv-den-yeni-logo-2020-passat/30611327
+2025-07-16 14:28:37,444 - WARNING - İlan çekme hatası (deneme 1/3): Sayfa yüklenemedi
+2025-07-16 14:28:45,661 - INFO - WebDriver başlatıldı - Timeout: 5s
+2025-07-16 14:28:56,934 - WARNING - Element bulunamadı: tab-description
+2025-07-16 14:28:56,934 - WARNING - Temel elementler bulunamadı: https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-business/crk-otomotiv-den-yeni-logo-2020-passat/30611327
+2025-07-16 14:28:56,934 - WARNING - İlan çekme hatası (deneme 2/3): Sayfa yüklenemedi
+2025-07-16 14:29:03,481 - INFO - WebDriver başlatıldı - Timeout: 5s
+2025-07-16 14:29:06,124 - ERROR - Navigasyon hatası: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.96)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff70dfb6f65+76917]
+	GetHandleVerifier [0x0x7ff70dfb6fc0+77008]
+	(No symbol) [0x0x7ff70dd69dea]
+	(No symbol) [0x0x7ff70dd55f15]
+	(No symbol) [0x0x7ff70dd7abf4]
+	(No symbol) [0x0x7ff70ddefa85]
+	(No symbol) [0x0x7ff70de0ff72]
+	(No symbol) [0x0x7ff70dde8243]
+	(No symbol) [0x0x7ff70ddb1431]
+	(No symbol) [0x0x7ff70ddb21c3]
+	GetHandleVerifier [0x0x7ff70e28d29d+3051437]
+	GetHandleVerifier [0x0x7ff70e2878f3+3028483]
+	GetHandleVerifier [0x0x7ff70e2a588d+3151261]
+	GetHandleVerifier [0x0x7ff70dfd182e+185662]
+	GetHandleVerifier [0x0x7ff70dfd96ef+218111]
+	GetHandleVerifier [0x0x7ff70dfbfae4+112628]
+	GetHandleVerifier [0x0x7ff70dfbfc99+113065]
+	GetHandleVerifier [0x0x7ff70dfa6c68+10616]
+	BaseThreadInitThunk [0x0x7ffd0a33e8d7+23]
+	RtlUserThreadStart [0x0x7ffd0b65c34c+44]
+
+2025-07-16 14:29:06,126 - WARNING - İlan çekme hatası (deneme 3/3): Sayfa yüklenemedi
+2025-07-16 14:29:06,128 - ERROR - İlan çekilemedi (tüm denemeler tükendi): https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-business/crk-otomotiv-den-yeni-logo-2020-passat/30611327
+2025-07-16 14:29:06,130 - WARNING - İlan işlenemedi: https://www.arabam.com/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-business/crk-otomotiv-den-yeni-logo-2020-passat/30611327
+2025-07-16 14:29:08,092 - INFO - Kullanıcı tarafından durduruldu (Ctrl+C)
+2025-07-16 14:29:08,092 - INFO - Program sonlandırılıyor...
+2025-07-16 14:29:08,092 - INFO - 
+=== İSTATİSTİKLER ===
+Toplam İşlenen: 1
+Başarılı: 0
+Başarısız: 1
+Başarı Oranı: 0.0%
+Geçen Süre: 0.7 dakika
+Ortalama Süre/İlan: 44.4 saniye
+
+2025-07-16 14:29:10,117 - INFO - Temizlik tamamlandı
+2025-07-16 14:29:10,119 - INFO - Program sonlandırılıyor...
+2025-07-16 14:29:10,121 - INFO - 
+=== İSTATİSTİKLER ===
+Toplam İşlenen: 1
+Başarılı: 0
+Başarısız: 1
+Başarı Oranı: 0.0%
+Geçen Süre: 0.8 dakika
+Ortalama Süre/İlan: 46.4 saniye
+
+2025-07-16 14:29:14,177 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000213BB42D910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4899419479cf3ebd135a16c66a70409e
+2025-07-16 14:29:18,230 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000213B8CB52B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4899419479cf3ebd135a16c66a70409e
+2025-07-16 14:29:22,314 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000213BB42D2E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4899419479cf3ebd135a16c66a70409e
+2025-07-16 14:29:26,367 - INFO - Temizlik tamamlandı
+2025-07-16 14:39:55,902 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000213BB42E900>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/331301923045d3e7039be7efb34f6db5
